@@ -10,14 +10,20 @@ Este repositorio presenta la implementación **manual** de técnicas de aumento 
 - Escalamiento con interpolación bilineal
 - Borrado aleatorio (Random Erase)
 - Mezclado de regiones (CutMix)
+- CLAHE
+- Ecualización
+- HIGHBOOST
+- Gradiente-Laplaciano
+- Filtrado Adaptativo Local
+- Adaptive Median Filter 
 
 ## Tecnologías
 - MATLAB (implementación manual)
 
 ## Autores
-Francisco Javier Lopez Olvera
-/ Alan Artemio Quero Alavez 
-/ Wendy Krystal Rodriguez Aguilar 
+Ing. Francisco Javier Lopez Olvera
+/ Ing. Alan Artemio Quero Alavez 
+/ Ing. Wendy Krystal Rodriguez Aguilar 
 
 
 Maestría en Robótica 
